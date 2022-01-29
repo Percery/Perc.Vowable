@@ -1,5 +1,5 @@
 # vowable
-                                                *"Lightweight Steam client framework for node"*
+                                               *Lightweight Steam client framework for node*
 
 
 Vowable is a lightweight Steam client for managing multiple account and provides unified API for writing custom extensions. Vowable takes care of the basic stuff such as maintaining connection, logging in and exposes simple API which allows custom plugins to extend its behaviour.
