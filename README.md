@@ -32,5 +32,5 @@ store and copy data
 Plugins are entirely event driven, there are no hard dependencies. Each plugin can emit an event and any plugin may register a callback for such event.
 This architecture allows your code to be modular and decoupled.
 
-Script is ran entirely on your own computer, every piece of information is stored on your machine. 
+Script is ran entirely on your own computer, every piece of information is stored locally on your machine. 
 
